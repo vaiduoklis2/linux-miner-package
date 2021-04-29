@@ -1,1 +1,1 @@
-./PhoenixMiner -pool eu-eth.hiveon.net:4444 -wal 0x8A4a72D6D68c915c01d2dEC400C1A20AE2B10F76 -worker Phoenix -epsw x -mode 1 -Rmode 1 -log 0 -mport 0 -etha 0 -retrydelay 1 -tstop 79 -coin eth -tt 0,-70,0,-80 -fcm 0,2,0,2 
+sudo ./PhoenixMiner -pool naw-eth.hiveon.net:4444 -wal 0x8A4a72D6D68c915c01d2dEC400C1A20AE2B10F76 -worker Phoenix -epsw x -mode 1 -Rmode 1 -log 0 -mport 0 -etha 0 -retrydelay 1 -tstop 79 -coin eth -tt 0,-75,0,-80 -fcm 0,2,0,2 -powlim 0,-30,0,-10 -cclock 0,0,0,1150 -mclock 0,900,0,2150 -cvddc 0,0,0,850 -gt 15,0,15,0 
